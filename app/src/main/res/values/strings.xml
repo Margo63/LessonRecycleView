@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LessonRecycleView</string>
+    <string name="titleReg">Моя пицца</string>
+    <string name="name">Введите имя</string>
+    <string name="number">Номер телефона</string>
+    <string name="adress">Адрес</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text"></string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling2">ScrollingActivity</string>
+
+
+</resources>
